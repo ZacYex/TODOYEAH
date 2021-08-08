@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc83d8bb-6266-4a69-b8f9-ab3135e812a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d0/3018d656c924001b1155fcf57ccc1653" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/LeetCode/.indexes/af/history.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/LeetCode/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/Cloud Foundry.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ajdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.help.base.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.texteditor.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.imports.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.configurator.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.frameworks.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springsource.ide.eclipse.commons.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.ui.workbench.swt/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1417232752.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1531366282.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1544891350.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1676453004.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/171424598.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1717516657.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1867321734.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1957723218.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2010876528.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/228985392.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2903997285.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3108746076.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3586247983.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3974429429.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3983096311.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4139624051.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/641903002.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/817902241.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/956891426.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.12.0.20190529-1916.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.aop.core/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/properties/.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.edu.emory.mathcs.backport-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.net.sf.cglib-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.org.apache.log4j-1.2.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.org.objectweb.asm-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.slf4j.api-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.slf4j.log4j-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/com.springsource.slf4j.org.apache.commons.logging-1.5.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.eclipse.osgi-3.5.1.R35x_v20091005.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.aop-3.0.1.RELEASE-A.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.beans-3.0.1.RELEASE-A.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.context-3.0.1.RELEASE-A.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.context.support-3.0.1.RELEASE-A.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.core-3.0.1.RELEASE-A.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.osgi.core-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.osgi.extender-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.osgi.extensions.annotation-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.springframework.ide.eclipse.osgi.targetdefinition/3.9.10.201909171046-RELEASE/target/org.springframework.osgi.io-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/ReferenceTest/SoftReference$SoftRefTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/ReferenceTest/SoftReference.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/ReferenceTest/WeekReferenceTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/ReferenceTest/WeekReferenceTest$WeekRefTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/ReferenceTest/WeekReferenceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/BracketsIsValide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/Queens.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/SolutionNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/sort/PrimarySort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/algorithms/sort/SortMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/ArrayQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/ArrayStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/LinkQueue$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/LinkQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/LinkStack$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/LinkStack$Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/dataStruct/imp/LinkStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/functionTest/CollectionStreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/functionTest/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/array/Solution643.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/array/Solution74.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/array/Solution766.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/bit/Solution190.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution221.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution303.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution62.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution63.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution647.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution650.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution70.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/dynamic_programming/Solution91.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/recall/Solution17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/sliding_window/Solution424.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/leetcode/sliding_window/Solution480.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/proxyTest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/proxyTest/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/proxyTest/UserInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/proxyTest/ZacProxyFactory$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/proxyTest/ZacProxyFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/stringTest/StringLearn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/sycronizion/DeathLock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/sycronizion/SycronizeMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/sycronizion/SycronizeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/sycronizion/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/sycronizion/VolitalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/utils/Combination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/utils/StopWatch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/zacyex_normalstu/utils/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceTest/SoftReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReferenceTest/WeekReferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/BracketsIsValide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/SolutionNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sort/PrimarySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/sort/SortMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStruct/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStruct/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStruct/imp/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStruct/imp/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStruct/imp/LinkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStruct/imp/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionTest/CollectionStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functionTest/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/array/Solution643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/array/Solution74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/array/Solution766.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/bit/Solution190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution221.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution647.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution650.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/dynamic_programming/Solution91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/recall/Solution17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/sliding_window/Solution424.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/sliding_window/Solution480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyTest/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyTest/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxyTest/ZacProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringTest/StringLearn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sycronizion/DeathLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sycronizion/SycronizeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sycronizion/SycronizeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sycronizion/VolitalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\javaenv\mvnrepository" />
+        <option name="mavenHome" value="E:\apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="C:\Users\ZacYex\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1wRl2Kmo8tYL8OXsTdbT5DGthd3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SycronizeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sycronizion.SycronizeMain" />
+      <module name="zacyex_normalstu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sycronizion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SycronizeMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc83d8bb-6266-4a69-b8f9-ab3135e812a3" name="Default Changelist" comment="" />
+      <created>1628429075297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628429075297</updated>
+      <workItem from="1628429076453" duration="2113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

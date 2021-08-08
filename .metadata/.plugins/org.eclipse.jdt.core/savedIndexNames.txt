@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+F:\zacyex_algorithms\.metadata\.plugins\org.eclipse.jdt.core
+1717516657.index
+1676453004.index
+3586247983.index
+4139624051.index
+3974429429.index
+2010876528.index
+817902241.index
+171424598.index
+1417232752.index
+228985392.index
+3108746076.index
+1531366282.index
+1544891350.index
+2903997285.index
+3983096311.index
+1957723218.index
+641903002.index
+956891426.index
+1867321734.index
